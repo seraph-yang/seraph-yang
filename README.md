@@ -35,4 +35,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=seraph-yang&show_icons=true&count_private=true"  alt="seraph-yang" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seraph-yang)](https://github.com/seraph-yang/github-profile-trophy)
+<img src="https://github-trophies.vercel.app/?username=seraph-yang&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,SPECIAL&row=2&column=9&theme=gruvbox">
