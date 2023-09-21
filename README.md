@@ -1,7 +1,7 @@
 
 <h2>Hi! I'm <a  href="https://seraphyang.com/">Seraph</a></h2>
 
-<p>I'm currently a junior at Valley Christian High School</p>
+<p>I'm a junior at Valley Christian High School</p>
 
 <p><a  href="https://seraphyang.com"><img  src="https://img.shields.io/badge/-seraphyang.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://seraphyang.com"  alt="Website Badge"></a> <a  href="https://medium.com/@serbis"><img  src="https://img.shields.io/badge/-@seraphyangg-E4405F??style=flat-square&amp;labelColor=E4405F?&amp;logo=Instagram&amp;link=https://medium.com/@serbis"  alt="Medium Badge"></a> <a  href="https://www.linkedin.com/in/seraphyang/"><img  src="https://img.shields.io/badge/-@seraphyang-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/seraphyang/"  alt="LinkedIn Badge"></a> <a  href="https://open.spotify.com/user/tncantvvei9xhvwc6b2xt8l25?si=9c8beb8312be4988"><img  src="https://img.shields.io/badge/-@seraph-1ED760?style=flat-square&amp;labelColor=000&amp;logo=Spotify&amp;link=https://open.spotify.com/user/tncantvvei9xhvwc6b2xt8l25?si=9c8beb8312be4988"  alt="Spotify Badge"></a></p>
 
