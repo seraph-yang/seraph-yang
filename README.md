@@ -31,8 +31,7 @@
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="python"  width="25"  height="25" />
 
-</p>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=seraph-yang&show_icons=true&count_private=true"  alt="seraph-yang" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seraph-yang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=seraph-yang&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-trophies.vercel.app/?username=seraph-yang&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,SPECIAL&row=2&column=9&theme=gruvbox">
