@@ -1,41 +1,18 @@
 
-<h2>Hi! I'm <a  href="https://seraphyang.com/">Seraph</a></h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seraphyangg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seraph-yang) [![seraphyang.com](https://img.shields.io/badge/seraphyang.com-%E66000.svg?logo=firefox&logoColor=white)](https://seraphyang.com) 
 
-<p>I'm a junior at Valley Christian High School</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=seraph-yang&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=seraph-yang&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seraph-yang&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><a  href="https://seraphyang.com"><img  src="https://img.shields.io/badge/-seraphyang.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://seraphyang.com"  alt="Website Badge"></a> <a  href="https://instagram.com/seraphyangg"><img  src="https://img.shields.io/badge/-@seraphyangg-E4405F??style=flat-square&amp;labelColor=E4405F?&amp;logo=Instagram&amp;link=https://instagram.com/seraphyangg"  alt="Instagram Badge"></a> <a  href="https://www.linkedin.com/in/seraph-yang/"><img  src="https://img.shields.io/badge/-@seraphyang-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/seraph-yang/"  alt="LinkedIn Badge"></a> <a  href="https://open.spotify.com/user/tncantvvei9xhvwc6b2xt8l25?si=9c8beb8312be4988"><img  src="https://img.shields.io/badge/-@seraph-1ED760?style=flat-square&amp;labelColor=000&amp;logo=Spotify&amp;link=https://open.spotify.com/user/tncantvvei9xhvwc6b2xt8l25?si=9c8beb8312be4988"  alt="Spotify Badge"></a></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=seraph-yang&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<h2>Skills</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=seraph-yang&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<p  align="left">
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"  alt="angular-js"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  alt="java"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"  alt="threejs"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="c++"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  alt="python"  width="25"  height="25" />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="python"  width="25"  height="25" />
-</p>
-
-<h2>Statistics</h2>
-
-<p  align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seraph-yang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=seraph-yang&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="https://github-trophies.vercel.app/?username=seraph-yang&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,SPECIAL&row=2&column=9&theme=gruvbox">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
