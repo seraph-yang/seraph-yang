@@ -1,11 +1,11 @@
 # Seraph Yang
 
 <div>
-  <a href="https://www.linkedin.com/in/seraph-yang/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/seraphyangg"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:seraph.k.yang@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seraph-yang/">Linkedin</a> ‧
+  <a href="mailto:seraph.yang@stanford.edu">Email</a> ‧
+  <a href="https://seraphyang.com">Website</a>
 </div>
 
 ## About Me
 
-I'm an incoming freshman at Stanford University and I plan on studying computer science. I'm interested in AI research and web development and enjoy learning about these topics!
+Hi! I'm a first-year CS student interested in AI research, startups, and web development. When I'm not coding, I like playing squash, rock climbing, and going on walks.
