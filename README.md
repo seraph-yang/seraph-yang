@@ -1,7 +1,7 @@
 # Seraph Yang 
 
 <div>
-  <a href="https://www.linkedin.com/in/seraph-yang/">Linkedin</a> ‧
+  <a href="https://linkedin.com/in/seraph-yang/">Linkedin</a> ‧
   <a href="mailto:seraph.yang@stanford.edu">Email</a> ‧
   <a href="https://seraphyang.com">Website</a>
 </div>
